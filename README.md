@@ -1,7 +1,8 @@
 # Learn Linux Shell the Hard Way
-A clone of Learn The Hard Way [https://learncodethehardway.org/] series by Zed A. Shaw 
+A clone of [Learn The Hard Way](https://learncodethehardway.org/) series by [Zed A. Shaw](https://zedshaw.com/)
 
-## Check current shell
+## Check your current shell
+
 ` $ echo $0 \
 -bash`
 
