@@ -1,5 +1,5 @@
 # Learn Linux Shell the Hard Way
-A clone of Learn The Hard Way series by Zed A. Shaw[https://learncodethehardway.org/]
+A clone of Learn The Hard Way [https://learncodethehardway.org/] series by Zed A. Shaw 
 
 ## Check current shell
 ` $ echo $0 \
@@ -8,3 +8,4 @@ A clone of Learn The Hard Way series by Zed A. Shaw[https://learncodethehardway.
 ## Exercise 0: The Setup
 ## Exercise 1: 
 ## Exercise 2: Comments And Pound Character
+## Exercise 29: What If
