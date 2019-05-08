@@ -1,4 +1,4 @@
-# Learn Linux Shell the Hard Way
+# Learn Linux Shell the Hard Way - BASH
 A clone of [Learn The Hard Way](https://learncodethehardway.org/) series by [Zed A. Shaw](https://zedshaw.com/)
 
 ## Check your current shell
