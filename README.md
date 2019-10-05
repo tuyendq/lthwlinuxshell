@@ -10,3 +10,5 @@ A clone of [Learn The Hard Way](https://learncodethehardway.org/) series by [Zed
 ## Exercise 1: 
 ## Exercise 2: Comments And Pound Character
 ## Exercise 29: What If
+## Exercise xx: for loop
+## Exercise xx: while loop
