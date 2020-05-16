@@ -12,3 +12,12 @@ A clone of [Learn The Hard Way](https://learncodethehardway.org/) series by [Zed
 ## Exercise 29: What If
 ## Exercise xx: for loop
 ## Exercise xx: while loop
+
+
+### cut
+Get the first column of all .csv files
+```
+cut -d , -f 1 *.csv
+```
+
+### grep
