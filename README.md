@@ -8,6 +8,10 @@ A clone of [Learn The Hard Way](https://learncodethehardway.org/) series by [Zed
 
 ## Exercise 0: The Setup
 ## Exercise 1: 
+## Exercie xx: Command-line Parameters
+$1
+$2
+$@
 ## Exercise 2: Comments And Pound Character
 ## Exercise 29: What If
 ## Exercise xx: for loop
