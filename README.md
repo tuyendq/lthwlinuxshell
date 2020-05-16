@@ -19,5 +19,9 @@ Get the first column of all .csv files
 ```
 cut -d , -f 1 *.csv
 ```
+Get the first column of all .csv files, exclude lines with 'Date', sort all lines, remove duplicated lines
+```
+cut -d , -f 1 *.csv | grep -v Date | sort | uniq
+```
 
 ### grep
