@@ -25,3 +25,9 @@ cut -d , -f 1 *.csv | grep -v Date | sort | uniq
 ```
 
 ### grep
+
+### uniq
+Count number of occurrences in text.csv file
+```
+uniq -c text.csv
+```
