@@ -35,3 +35,7 @@ Count number of occurrences in text.csv file
 ```
 uniq -c text.csv
 ```
+
+## Free courses
+[Learn Shell](https://www.learnshell.org/)
+[The Unix Workbench](https://www.coursera.org/learn/unix)
