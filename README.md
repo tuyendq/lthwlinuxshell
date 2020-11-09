@@ -1,6 +1,8 @@
 # Learn Linux Shell the Hard Way - BASH
 A clone of [Learn The Hard Way](https://learncodethehardway.org/) series by [Zed A. Shaw](https://zedshaw.com/)
 
+- Shell command is **case sentivive**
+
 ## Check your current shell
 
 ` $ echo $0 \
@@ -41,3 +43,7 @@ uniq -c text.csv
 [Learn Shell](https://www.learnshell.org/)
 
 [The Unix Workbench](https://www.coursera.org/learn/unix)
+
+[NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)
+
+[NDG Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
