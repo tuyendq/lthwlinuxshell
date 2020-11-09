@@ -20,6 +20,10 @@ $@
 ## Exercise xx: while loop
 
 
+## Quotes in Linux shell
+- Three types of quotes: single quote '', double quote "", and backstick ``
+
+
 ### cut
 Get the first column of all .csv files
 ```
